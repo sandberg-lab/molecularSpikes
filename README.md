@@ -2,6 +2,9 @@
 
 
 
+## UMIcountR analysis package
+Please refer to the [UMIcountR repository on GitHub ](https://github.com/cziegenhain/UMIcountR).
+
 ## Reference
 Molecular spikes: a gold standard for single-cell RNA counting
 https://www.biorxiv.org/content/10.1101/2021.07.10.451877v1
